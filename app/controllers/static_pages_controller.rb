@@ -5,6 +5,6 @@ class StaticPagesController < ApplicationController
   def help
   end
 
-  def —no-test-framework
+  def --no-test-framework
   end
 end
